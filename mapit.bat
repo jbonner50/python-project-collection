@@ -1,0 +1,1 @@
+@py.exe C:\Users\503130787\Documents\practice\mapit.py %*
