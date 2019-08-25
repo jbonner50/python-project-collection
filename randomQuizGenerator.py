@@ -23,8 +23,8 @@ capitals = {'Alabama': 'Montgomery', 'Alaska': 'Juneau', 'Arizona': 'Phoenix',
    'West Virginia': 'Charleston', 'Wisconsin': 'Madison', 'Wyoming': 'Cheyenne'}
 
 #creates folder for quizzes and answersheets
-os.mkdir('C:\\Users\\503130787\\Downloads\\quizzes')
-os.chdir('C:\\Users\\503130787\\Downloads\\quizzes')
+os.mkdir('C:\\Users\\jbonner50\\Downloads\\quizzes')
+os.chdir('C:\\Users\\jbonner50\\Downloads\\quizzes')
 
 for quizNum in range(35):
     #create quiz & answer files
